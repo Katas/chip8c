@@ -22,6 +22,7 @@ Linux compilation will be slightly different but shouldn't be hard to figure out
 
 ## Warnings
 * It still doesn't work well enough to use due to some bug(s), presumably in chip8.c
+* test.c is very basic and finds only the most obvious errors in the instructions
 
 ## Future improvements
 * Fix the bug that makes it not work properly
